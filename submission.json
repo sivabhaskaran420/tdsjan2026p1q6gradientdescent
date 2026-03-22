@@ -2,6 +2,7 @@
   "prompt": "An 18th-century scientific copperplate engraving illustrating the machine learning concept of gradient descent as if it were a natural philosopher’s plate from the Age of Exploration. A mountainous terrain is rendered as a loss surface, with a sequence of labeled spheres descending step by step from a high ridge into a basin marked as the minimum. Ornate cartouche title, Latin annotations, engraved hatching, stippled shading, compass rose, globe, measuring instruments, marginal scientific notes, antique paper texture, monochrome sepia ink, historically plausible engraving layout, single frame. Negative prompt: modern fonts, photorealism, neon colors, 3D render sheen, digital interface, contemporary chart style, infographic look, glossy gradients, anime, comic style.",
   "model": "DALL·E 3",
   "concept": "gradient descent",
+  "metaphor": "A sequence of weighted spheres rolling down an engraved mountain into a basin, treating optimization as a measured physical descent toward a lowest point.",
   "tradition_name": "Scientific copperplate engraving from the Age of Exploration",
   "tradition_period": "16th–18th century",
   "tradition_approach": "Targeted engraved hatching, ornate cartouche framing, Latin scientific labeling, and specimen-plate composition to express iterative descent as a natural-philosophical diagram.",
